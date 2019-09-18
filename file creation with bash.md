@@ -1,7 +1,7 @@
 File Creation with bash
-==========================
+=========================
 The  code below creates 100 files using bash
-
+-----------------------------------------------
 
 #!/bin/bash
 
